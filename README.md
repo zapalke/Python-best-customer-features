@@ -9,4 +9,4 @@ To do this we need to go through these steps:
 5. Evalutaing the quality of models.
 6. Building a model and getting a result.
 
-Our result is presented as decision tree
+As a result we get a decision tree. The program tries to find best values based on test dataset and prints out the final result.
